@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "144423693203",
+    "firebase_url": "https://chillchatv2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chillchatv2",
+    "storage_bucket": "chillchatv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144423693203:android:0dd8a6b0b7281aa11c5666",
+        "android_client_info": {
+          "package_name": "com.example.chill_chat_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144423693203-kj4gsfmn88n1io0ql8bm4abqdtoomb8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chill_chat_v2",
+            "certificate_hash": "5998a87b2fa9d2d870eb2c6c6ef6e3e757aedeac"
+          }
+        },
+        {
+          "client_id": "144423693203-vqeurn0hs7arr5p35jnc9jmsh8a84mjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chill_chat_v2",
+            "certificate_hash": "c46b53347ed6931c5c6aa692c9b4059d0319d73c"
+          }
+        },
+        {
+          "client_id": "144423693203-cic9h75ojo0gtre9o468j9o1app68q2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tQyoXSGYiWZiNx3HRXTGGPU5JWPfb5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144423693203-cic9h75ojo0gtre9o468j9o1app68q2i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144423693203-p7a8q356iub39e52agmc411d6sp2tkcj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chillChatV2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
